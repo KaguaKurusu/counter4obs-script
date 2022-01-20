@@ -1,4 +1,4 @@
--- OBS Studio counter script v1.0.0
+-- OBS Studio counter script v1.0.1
 -- This script is released under MIT License.
 -- Author Kagua Kurusu, project homepage https://github.com/KaguaKurusu/counter4obs
 
