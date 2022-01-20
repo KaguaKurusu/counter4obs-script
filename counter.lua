@@ -176,7 +176,6 @@ function script_load(settings)
 	obs.signal_handler_connect(sh, "source_hide", source_deactivated)
 
 	reg_hotkey(settings)
-	print(obs.obs_get_locale())
 end
 
 function script_save(settings)
